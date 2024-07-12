@@ -5,6 +5,10 @@ link to lessons:
 
 https://www.codecademy.com/paths/build-web-apps-with-react/tracks/bwa-javascript-functions-arrays-and-loops/modules/learn-javascript-functions/lessons/functions/exercises/intro-to-functions
 
+### FUNCTIONS
+
+**What are Functions?**
+
 When first learning how to calculate the area of a rectangle, there’s a sequence of steps to calculate the correct answer:
 
 1. Measure the width of the rectangle.
