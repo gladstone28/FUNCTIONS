@@ -30,7 +30,7 @@ In this lesson, we covered some important concepts about functions:
 
 - To define a function using function expressions:
 
-![](./ expression.svg)
+![](./expression.svg)
 
 - To define a function using arrow function notation:
 
